@@ -1,0 +1,8 @@
+gradio
+pandas
+requests
+PyMuPDF
+openai
+browser-use
+langchain_openai
+python-dotenv
